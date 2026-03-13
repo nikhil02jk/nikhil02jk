@@ -18,10 +18,7 @@ I’m passionate about building scalable data pipelines, machine learning system
 
 ## 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
-![Scala](https://img.shields.io/badge/Scala-red?logo=scala)
+![Python](https://img.shields.io/badge/Python-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql) ![Java](https://img.shields.io/badge/Java-red?logo=openjdk) ![Scala](https://img.shields.io/badge/Scala-red?logo=scala)
 
 ![Apache Spark](https://img.shields.io/badge/Spark-orange?logo=apachespark)
 ![dbt](https://img.shields.io/badge/dbt-orange?logo=dbt)
