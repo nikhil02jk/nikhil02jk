@@ -11,8 +11,8 @@ I’m passionate about building scalable data pipelines, machine learning system
 - 🎓 Master's student in Data Science at University of Colorado Boulder
 - 🎓 Bachelor’s in Computer Science and Engineering – PES University
 - 🧑‍🏫 Teaching Assistant at University of Colorado Boulder
+- 💼 Former Data Engineer Intern at Echostar Corporation - Boost Mobile
 - 💼 Former Data Engineer at ZEE Entertainment (ZEE5 OTT Platform)
-- ☕ Barista at Starbucks 
 - 📊 Interested in Data Engineering, Machine Learning, and AI
 - 🚀 Passionate about building scalable data platforms and analytics systems
 
