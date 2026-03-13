@@ -35,11 +35,6 @@ I’m passionate about building scalable data pipelines, machine learning system
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
----
-
-## 📈 GitHub Stats
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ---
 
