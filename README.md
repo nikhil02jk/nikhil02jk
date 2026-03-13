@@ -9,7 +9,9 @@ I'm passionate about building **data pipelines, machine learning systems, and sc
 ## 👨‍💻 About Me
 
 • 🎓 Master's in Data Science – University of Colorado Boulder 
+
 • 🎓 Bachelors's in Computer Science – PES University
+
 • 💼 Former Data Engineer at ZEE Entertainment (ZEE5 OTT Platform)  
 • 🔧 Experienced in building data pipelines and data platforms  
 • 📊 Interested in Data Engineering, Machine Learning, and AI  
@@ -52,13 +54,6 @@ Analyzed crime patterns using machine learning models such as **Random Forest, S
 ### Real Estate Price Prediction
 Developed predictive models to forecast housing prices using regression and machine learning techniques.
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
 
 ---
 
