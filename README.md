@@ -38,19 +38,6 @@ I’m passionate about building scalable data pipelines, machine learning system
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Analytics Engineering Pipeline
-Built an ELT pipeline using dbt, Snowflake, and Airflow to transform raw data into analytics-ready data models.
-
-### 🔹 US Crime Analysis
-Analyzed crime patterns using machine learning models such as Random Forest, SVM, XGBoost, and LSTM to identify trends and predict outcomes.
-
-### 🔹 Real Estate Price Prediction
-Developed machine learning models to forecast property prices using regression techniques and feature engineering.
-
----
-
 ## 📈 GitHub Stats
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
@@ -59,4 +46,6 @@ Developed machine learning models to forecast property prices using regression t
 
 ## 🌐 Connect With Me
 
-LinkedIn | Portfolio | Email
+[LinkedIn](https://www.linkedin.com/in/nikhiljk02/)  
+[GitHub](https://nikhiljk.lovable.app/)  
+Email: nikhil.jk02@gmail.com
