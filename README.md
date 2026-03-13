@@ -9,8 +9,10 @@ I’m passionate about building scalable data pipelines, machine learning system
 ## 👨‍💻 About Me
 
 - 🎓 Master's student in Data Science at University of Colorado Boulder
+- 🎓 Bachelor’s in Computer Science and Engineering – PES University
+- 🧑‍🏫 Teaching Assistant at University of Colorado Boulder
 - 💼 Former Data Engineer at ZEE Entertainment (ZEE5 OTT Platform)
-- ☕ Barista at Starbucks UMC while pursuing my graduate studies
+- ☕ Barista at Starbucks 
 - 📊 Interested in Data Engineering, Machine Learning, and AI
 - 🚀 Passionate about building scalable data platforms and analytics systems
 
