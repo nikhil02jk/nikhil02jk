@@ -46,6 +46,8 @@ I’m passionate about building scalable data pipelines, machine learning system
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/nikhiljk02/)  
-[GitHub](https://nikhiljk.lovable.app/)  
-Email: nikhil.jk02@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiljk02/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://nikhiljk.lovable.app/)
+
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:nikhil.jk02@gmail.com)
